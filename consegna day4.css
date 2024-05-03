@@ -1,0 +1,42 @@
+
+body {
+    text-align: center;
+    margin: 0;
+    color: #333;
+    font-family: Georgia, serif;}
+
+    header{background-color: black;padding-top: 40px; padding-bottom: 40px;}
+
+    article{text-align: center;}
+
+    .content{background-image: url(assets/banner.jpg);
+        background-size: cover; 
+        height: 400px;
+       border: 1px ;
+        text-align:center;}
+        .p1{line-height: 40px;font-size: 2rem;}
+    h1{color: #25a2c3;font-size: 3rem; margin-bottom: 20px; padding-top: 20px;}
+    button{background-color: red;color: white; margin-top: 20px;}
+
+h2{color: #25a2c3;}
+h3{font-size:2rem; color: white;}
+h4{color: #25a2c3;padding-top: 10px;}
+
+.div-intro{line-height: 30px; margin-top: 20px;margin-bottom: 20px; margin-left: 20px; margin-right: 20px;}
+
+    
+
+.testimonianza{background-color: rgb(255, 64, 0);color: white ;padding: 60px;}
+.p-testimonianza{line-height: 30px;padding-bottom: 20px; padding-top: 10px;}
+
+.contenitore{outline: #aaaaaa solid 1px; margin: 30px; margin-bottom: 20px; border-radius: 1%;}
+.p-cont{line-height: 30px; padding: 20px;}
+
+footer{background-color: #25a2c3; padding: 40px; line-height: 20px; color: white;}
+.div-footer{font-size: 2rem; padding-bottom: 20px;}
+
+.foto{height: 270px; width: 370px;}
+
+.cerchio{border-radius: 50%;}
+
+
